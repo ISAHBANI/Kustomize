@@ -1,4 +1,4 @@
 image:
-  repository: "spring-petclinic"
+  repository: "https://github.com/ISAHBANI/add-petclinic.git"
 
 replicas: 1
