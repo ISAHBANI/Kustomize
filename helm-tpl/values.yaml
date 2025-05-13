@@ -1,4 +1,4 @@
 image:
-  repository: "https://github.com/ISAHBANI/add-petclinic.git"
+  repository: "values.yaml"
 
 replicas: 1
