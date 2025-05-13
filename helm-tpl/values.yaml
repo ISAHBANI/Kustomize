@@ -1,4 +1,4 @@
 image:
-  repository: "values.yaml"
+  repository: "3.4.0-SNAPSHOT"
 
 replicas: 1
